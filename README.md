@@ -9,4 +9,4 @@
 - 😄 Pronouns: ... GT
 - ⚡ Fun fact: ... Im an intorvert.
 
-[![Gajender's github stats](https://github-readme-stats.vercel.app/api?username=GajenderTyagi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gajender's github stats](https://github-readme-stats.vercel.app/api?username=GajenderTyagi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
